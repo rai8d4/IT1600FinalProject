@@ -13,6 +13,7 @@ Open a terminal and run:
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "youremail@emai..com"
+```
 
 This assigns your account as the user for all repositories being accessed on your device. (hence the --global)
 
