@@ -10,7 +10,7 @@ This is especially important since software development is a highly collaborativ
 
 ## Making Too Many Changes in One Commit
 Small commits are easier to understand and undo.
-When you commit to many things at once, it's hard to tell where things went wrong (and they will almost always go wrong).
+When you commit too many things at once, it's hard to tell where things went wrong (and they will almost always go wrong).
 
 ## Panic When Something Goes Wrong
 Git stores history. Most mistakes can be fixed.
